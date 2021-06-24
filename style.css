@@ -86,7 +86,7 @@ section{
   padding: 0;
   background:rgb(194, 182, 182);
   width: 100%;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 h1{
