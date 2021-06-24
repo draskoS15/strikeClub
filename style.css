@@ -5,6 +5,7 @@ body{
     font-family: "Lucida Console", Monaco, monospace;
     margin:0!important;
     padding:0!important;
+  overflow: hidden;
 }
 .nav-bar {
     background-color: rgb(99, 134, 128);
@@ -86,7 +87,7 @@ section{
   padding: 0;
   background:rgb(194, 182, 182);
   width: 100%;
-  heigt:100%;
+  heigt:850px;
 }
 
 h1{
